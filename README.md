@@ -1,2 +1,3 @@
 # first-demo
-This is a project
+This is my first repository...
+author by- nikita pagar
